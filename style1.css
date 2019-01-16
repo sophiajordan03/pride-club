@@ -149,22 +149,26 @@ border-bottom: 3px solid white;
 } */
 
 #nav-1:hover {
-  border-bottom: 3px solid white;
+  border-bottom: 3px #ff6961 solid;
 }
 #nav-2:hover {
-border-bottom: 3px solid red;
+  border-bottom: 3px #ffb347 solid;
 }
 #nav-3:hover {
-border-bottom: 3px solid blueviolet;
+  border-bottom: 3px  #fdfd96 solid;
 }
 #nav-4:hover {
-border-bottom: 3px solid green;
+  border-bottom: 3px  #77dd77 solid;
 }
 #nav-5:hover {
-border-bottom: 3px solid blue;
+border-bottom: 3px  #669ae1 solid;
 }
 #nav-6:hover {
-border-bottom: 3px solid white;
+border-bottom: 3px #c49cde solid;
+}
+#nav-1{
+  font-size: 14px;
+color:#ff6961 solid;
 }
 
 .nav-button-wrapper a {

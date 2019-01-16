@@ -109,7 +109,7 @@ img.center{
 
 }
 
-h1 {
+.bigheader {
   font-family: 'Raleway', sans-serif;
   color:white;
   text-align: center;
@@ -148,9 +148,31 @@ cursor: pointer;
 border-bottom: 3px solid white;
 } */
 
+/* NAV BOTTOM COLORS */
+
 #nav-1:hover {
   border-bottom: 3px #ff6961 solid;
 }
+#nav-1 a {
+  color: #ff6961;
+}
+#nav-2 a {
+  color:  #ffb347;
+}
+#nav-3 a {
+  color:   #fdfd96;
+
+}#nav-4 a {
+  color:   #77dd77;
+}
+#nav-5 a {
+  color:  #669ae1;
+}
+#nav-6 a {
+  color:  #c49cde;
+}
+
+
 #nav-2:hover {
   border-bottom: 3px #ffb347 solid;
 }
@@ -166,10 +188,7 @@ border-bottom: 3px  #669ae1 solid;
 #nav-6:hover {
 border-bottom: 3px #c49cde solid;
 }
-#nav-1{
-  font-size: 14px;
-color:#ff6961 solid;
-}
+
 
 .nav-button-wrapper a {
 padding: 0px;

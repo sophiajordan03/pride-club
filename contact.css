@@ -214,5 +214,7 @@ html{
     text-align: center;
     line-height:1.5;
     color: #36454f;
-    font-family: 'Raleway';  
+    font-family: 'Raleway';
+    list-style-position: inside;
+  
 }
